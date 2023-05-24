@@ -1,7 +1,0 @@
-NAME: Joel Brandinger
-
-TIME SPENT: 24 hours
-
-RESOURCES: 
-    - Sklearn documentation
-    - countless google searches on image classification feature engineering
